@@ -1,6 +1,6 @@
 Name:		mdf2iso
 Version:	0.3.0
-Release:	%mkrel 1
+Release:	2
 Summary:	Alkohol 120 CD Images (.mdf) to ISO converter
 License:	GPL
 Group:		Archiving/Other
