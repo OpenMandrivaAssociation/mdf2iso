@@ -7,6 +7,11 @@ Group:		Archiving/Other
 URL:		https://mdf2iso.berlios.de/
 Source0:	https://cdn-aws.deb.debian.org/debian/pool/main/m/mdf2iso/mdf2iso_%{version}.orig.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 MDF2ISO is a very simple utility to convert an Alcohol 120 bin images
 to the standard ISO-9660 format.
